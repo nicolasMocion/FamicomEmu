@@ -1,0 +1,15 @@
+# ninja log v6
+4210	4397	1733935104087492353	Famicom	cd3d7237d6b47657
+2	4210	1733935099879641325	CMakeFiles/Famicom.dir/olcNes_Video1_6502.cpp.o	552879f39c751e26
+1	3364	1733935099878279005	CMakeFiles/Famicom.dir/olc6502.cpp.o	dfe775f403ebd651
+4	3244	1733935099881092811	CMakeFiles/Famicom.dir/Cartridge.cpp.o	5b4be0e27c216bf0
+608	3237	1733935100485916457	CMakeFiles/Famicom.dir/olc2A03.cpp.o	7eb636043bc9022f
+3	3083	1733935099880291569	CMakeFiles/Famicom.dir/olc2C02.cpp.o	bddfb14221d37484
+582	891	1733935100459739589	CMakeFiles/Famicom.dir/Mapper_066.cpp.o	e698d0e3b3e7f5f0
+1	3231	1733935099878853874	CMakeFiles/Famicom.dir/Bus.cpp.o	7645e1850fa41596
+5	2735	1733935099882651379	CMakeFiles/Famicom.dir/Mapper_000.cpp.o	12f33d216d611bca
+491	2809	1733935100368713649	CMakeFiles/Famicom.dir/Mapper_004.cpp.o	a41a305a5001d3c1
+6	608	1733935099883457413	CMakeFiles/Famicom.dir/Mapper_002.cpp.o	7db6645572747eb9
+4	489	1733935099881525557	CMakeFiles/Famicom.dir/Mapper.cpp.o	ce5c89a25c3ba7d1
+6	2789	1733935099883093541	CMakeFiles/Famicom.dir/Mapper_001.cpp.o	68b24cd827b12f8a
+6	582	1733935099883843617	CMakeFiles/Famicom.dir/Mapper_003.cpp.o	dc8bece77dcd6e2e
